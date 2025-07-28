@@ -7,7 +7,7 @@ The SMO source code has mainly 3 parts - FOCOM, NFO and OAM.
 Step 1 : untar the iosmcn.agartala.v0.2.0.smo.source.tar.gz
 
 ```sh
-tar -xvzf iosmcn.agartala.v0.1.0.smo.source.tar.gz
+tar -xvzf iosmcn.agartala.v0.2.0.smo.source.tar.gz
 
 ```
 
